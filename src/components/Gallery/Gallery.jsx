@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-
+// ghtfrdesa
 function Gallery(props){
 const[a,setA]=useState(6)
 
